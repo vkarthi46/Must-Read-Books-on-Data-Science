@@ -12,6 +12,9 @@
 
 6.Freakonomics - BY STEVEN D. LEVITT & STEPHEN J. DUBNER
 
+7.An Introduction to Statistical Learning: with Applications in R -by Gareth James,Daniela Witten,Trevor Hastie,Robert Tibshirani
+
+8.The Elements of Statistical Learning: Data Mining, Inference, and Prediction (My Bible)-By Trevor Hastie,Robert Tibshirani
 
 # Data Science
 
